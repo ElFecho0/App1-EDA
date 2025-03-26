@@ -1,0 +1,9 @@
+Para Actualizar el repo de Github:
+1) git status (status de los cambios al proyecto)***
+2) git add . (seleccion de todo los cambios)
+3) git commit -m "commit mensaje" ("save")
+4) git remote add origin(remote) "URL Repo"
+5) git remote remove origin(remote)
+o git remote set-url origin git://new.url.here
+6) git remote -v (ver remotes y respectivas URLs)  ***
+7) git push origin(remote) <rama>
